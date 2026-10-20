@@ -2,7 +2,7 @@
 
 - **Họ tên:** Nguyễn Hồng Vũ 
 - **Lớp:** CNTT1 
-- **Link repository:**https://github.com/nguyenvu220806-alt/CNTT1_NguyenHongVu_Nhap-Mon-CNTT_OnTap-Ngay1
+- **Link repository:** https://github.com/nguyenvu220806-alt/CNTT1_NguyenHongVu_Nhap-Mon-CNTT_OnTap-Ngay1
 - **Hệ điều hành (Windows/macOS):** Windown
 
 ## Phần A. Tổ chức thư mục bằng GUI
